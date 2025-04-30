@@ -74,3 +74,6 @@ section{
 
 .Page3 {text-align: center;font-size: 30px;color: #a1bfdb;background-image: url("imagen\ 16.jpg");mask-image: linear-gradient(black 80%, transparent); width: 1275px; height: 300px;}
 .Page4 {text-align: center;font-size: 30px;color: #a1bfdb;background-image: url("imagen\ 17.jpg");mask-image: linear-gradient(black 80%, transparent); width: 1275px; height: 300px;}
+a{
+    text-decoration: none;
+}
